@@ -1,0 +1,36 @@
+.title {
+  text-align: center;
+}
+.Pantry {
+  font-size: x-large;
+  background-color: lightcyan;
+  border-style: solid;
+}
+.Freezer {
+  background-color: lightcyan;
+  border-style: solid;
+}
+.CannedGoods {
+  background-color: lightgray;
+  border-style: solid;
+  padding: 0.5rem;
+}
+.DryGoods {
+  background-color: lightgray;
+  border-style: solid;
+  padding: 0.5rem;
+}
+.Vegetables {
+  background-color: lightgray;
+  border-style: solid;
+  padding: 0.5rem;
+}
+.Snacks {
+  background-color: lightgray;
+  border-style: solid;
+  padding: 0.5rem;
+}
+.Items {
+  display: flex;
+  gap: 1rem;
+}
